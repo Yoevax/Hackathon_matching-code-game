@@ -45,6 +45,7 @@ body {
   justify-content: center;
   perspective: 1000px;
   margin-top: 10px;
+  margin-left: 50px;
 }
 
 .memory-card {
@@ -96,7 +97,7 @@ body {
   font-size: 2rem;
   text-align: center;
   color: rgb(54, 54, 121);
-  border-radius: 50%;
+  border-radius: 200px;
 }
 
 
